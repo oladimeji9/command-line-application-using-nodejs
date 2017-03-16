@@ -4,4 +4,4 @@ A simple command line application that consumes a Public API using a HTTP client
 #Instruction
 Register at: https://bitbucket.org/
 Enter in the command line: "node index filename/folder" to upload unto Bitbucket server
-Enter your username and password
+Enter your username and password.
